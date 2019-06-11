@@ -3,4 +3,6 @@ Git is a version control system.
 Git is free software.
 test vim
 test 002
-test 004 
+test 004
+Git tacks changeso.
+My friend... 
